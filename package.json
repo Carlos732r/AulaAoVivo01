@@ -1,0 +1,27 @@
+{
+  "name": "reajuste-salarial",
+  "version": "1.0.0",
+  "description": "Sistema de cálculo de reajuste salarial",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos732r/AulaAoVivo01.git"
+  },
+  "keywords": [],
+  "author": "Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos732r/AulaAoVivo01/issues"
+  },
+  "homepage": "https://github.com/Carlos732r/AulaAoVivo01#readme"
+}
